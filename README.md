@@ -8,6 +8,7 @@ Latest CV dated: 8 June 2021 (see [Hafidz_CV_080621.pdf](https://github.com/irha
 - MSc Thesis: [https://essay.utwente.nl/62920/](https://essay.utwente.nl/62920/) Hafidz, Irmasari (2011) Application of TETRAD in information systems theory development using knowledge sharing literature: case-study based approach
 
 To cite using BibTeX, please use:
+
 @misc{essay62920,
             year = {2011},
            title = {Application of TETRAD in information systems theory development using knowledge sharing literature: case-study based approach},
