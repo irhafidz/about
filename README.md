@@ -1,7 +1,7 @@
 # About Me
 Irmasari Hafidz
 
-Latest CV dated: 30 Apr 2022 (see [Hafidz_CV.pdf](https://github.com/irhafidz/about/blob/main/HAFIDZ%20CV%20Work%20OCT%202022%20v3.pdf))
+Latest CV dated: Oct 2022 (see [Hafidz_CV.pdf](https://github.com/irhafidz/about/blob/main/HAFIDZ%20CV%20Work%20OCT%202022%20v3.pdf))
 
 - Google Scholar: [https://scholar.google.com/citations?user=7LWDMRQAAAAJ&hl=en](https://scholar.google.com/citations?user=7LWDMRQAAAAJ&hl=en) 
 - ORCID: [https://orcid.org/0000-0002-9148-712X](https://orcid.org/0000-0002-9148-712X)
