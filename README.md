@@ -1,7 +1,7 @@
 # About Me
 Irmasari Hafidz
 
-Latest CV dated: Oct 2022 (see [Hafidz_CV.pdf](https://github.com/irhafidz/about/blob/main/HAFIDZ%20CV%20Work%20OCT%202022%20v3.pdf))
+Latest CV dated: Aug 2023 (see [Hafidz_CV.pdf](https://github.com/irhafidz/about/blob/main/2023%20AUG%20HAFIDZ%20CV.pdf))
 
 - Google Scholar: [https://scholar.google.com/citations?user=7LWDMRQAAAAJ&hl=en](https://scholar.google.com/citations?user=7LWDMRQAAAAJ&hl=en) 
 - ORCID: [https://orcid.org/0000-0002-9148-712X](https://orcid.org/0000-0002-9148-712X)
@@ -13,4 +13,4 @@ To cite using BibTeX, please use:
 Contact:
 - irma at is.its.ac.id/ i dot hafidz at lboro.ac.uk
 - homepage at Loughborough University, UK: https://www.lboro.ac.uk/departments/meme/staff/phd/irma-hafidz/
-- homepage at ITS, Indonesia: https://www.its.ac.id/si/profil-irmasari-hafidz/
+- homepage at ITS, Indonesia: https://www.its.ac.id/si/profil-irmasari-hafidz/ and https://www.its.ac.id/si/en/home/
