@@ -13,4 +13,4 @@ To cite using BibTeX, please use:
 Contact:
 - irma at is.its.ac.id/ i dot hafidz at lboro.ac.uk
 - homepage at Loughborough University, UK: https://www.lboro.ac.uk/departments/meme/staff/phd/irma-hafidz/
-- homepage at ITS, Indonesia: https://www.its.ac.id/si/profil-irmasari-hafidz/ and https://www.its.ac.id/si/en/home/
+- homepage at ITS, Indonesia: https://scholar.its.ac.id/en/persons/irmasari-hafidz and https://www.its.ac.id/si/en/home/
