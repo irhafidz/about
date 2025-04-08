@@ -1,6 +1,6 @@
 # About Me
 Irmasari Hafidz
-Main website/ Teaching: https://its.id/notionIH
+- Main website/ Teaching: https://its.id/notionIH
 
 Latest CV dated: Aug 2023 (see [Hafidz_CV.pdf](https://github.com/irhafidz/about/blob/main/2023DEC_HAFIDZCV.pdf))
 
