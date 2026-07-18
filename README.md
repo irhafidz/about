@@ -7,5 +7,6 @@ To cite using BibTeX, please use:
 [https://essay.utwente.nl/cgi/export/62920/BibTeX/essay-eprint-62920.bib](https://essay.utwente.nl/cgi/export/62920/BibTeX/essay-eprint-62920.bib)
 
 Contact:
-- homepage at Loughborough University, UK: https://www.lboro.ac.uk/schools/meme/staff/phd/irmasari-hafidz/
+- homepage at Loughborough University, UK: ~~https://www.lboro.ac.uk/schools/meme/staff/phd/irmasari-hafidz/~~
+- homepage at ITS, Dept of Data Acquisition & Information Dissemination, Indonesia: https://scholar.its.ac.id/en/persons/irmasari-hafidz/publications/
 
